@@ -1,0 +1,85 @@
+html, body {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    display: flex; justify-content:center;
+}
+
+#logo img {
+    width: 200px; display: flex; align-items: center;
+}
+
+#span {
+    display: flex; justify-content:center; margin-top: 20px; background-color: #fdfbf1; border-top: 1px solid #ffd877; padding: 10px; font-size: 10px; color: #004d4c;
+}
+
+#grassetto {
+    font-weight: bold;
+}
+
+#main h1 {
+    text-align: center;
+}
+
+#foto {
+    width: 100%; height: 550px; object-fit: cover; border-radius: 20px;
+}
+
+
+#tagimg {
+    display: flex; justify-content:center; font-size: 12px; color: #999999;
+}
+
+#main,#footer {
+    width: 50%; margin: auto;
+}
+
+#paragrafo {
+    border-left: 1px solid #ffd877;
+}
+
+#paragrafo p,h4 {
+    margin-left: 15px;
+}
+
+#paragrafo p{
+    margin-top: 0;
+}
+
+#paragrafo h4{
+    margin-bottom: 0;
+}
+
+
+.separatore {
+    border-bottom: 1px solid #c3f4f1;
+}
+
+#FEATURED {
+    color: #b54610;
+}
+
+#Fresh {
+    color: #0e7777; text-decoration: underline;
+}
+
+#footer p span {
+    text-decoration: underline; color: #0e7777;
+}
+
+h2 {
+    font-weight: normal;;
+}
+
+
+
+
+
+
+
+
+
+
